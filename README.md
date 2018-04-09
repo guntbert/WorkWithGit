@@ -3,4 +3,6 @@
 - repo initialisieren
 - Readme erstellen
 - in github repo erzeugen
-- sync
+- push
+- add another file
+- push again
